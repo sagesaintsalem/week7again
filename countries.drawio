@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T14:27:08.791Z" agent="5.0 (Macintosh)" version="20.6.2" etag="03kZ43VKDrQuirf-ay01" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T14:28:33.010Z" agent="5.0 (Macintosh)" version="20.6.2" etag="BhKvhQXUsjo1jFBkCarz" type="github">
   <diagram id="qJ6w7HNwzbd-sbemGm2J" name="Page-1">
     <mxGraphModel dx="786" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1027" pageHeight="469" math="0" shadow="0">
       <root>
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="L0vnab-JGndM7TkmbKC3-10" value="&lt;h1&gt;Your Faves&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Country&lt;/p&gt;&lt;p&gt;Country&lt;/p&gt;&lt;p&gt;Country&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="165" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="L0vnab-JGndM7TkmbKC3-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L0vnab-JGndM7TkmbKC3-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="165" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
