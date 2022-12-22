@@ -1,0 +1,10 @@
+.massive-container {
+  font-family: 'Bebas Neue';
+}
+
+.massive-container > h1 {
+
+  text-align: center;
+  font-size: 60px;
+
+}

@@ -1,0 +1,9 @@
+.main-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+.country-detail {
+  margin: 0px 20px;
+}
