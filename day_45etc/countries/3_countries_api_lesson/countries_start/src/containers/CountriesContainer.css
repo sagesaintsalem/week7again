@@ -1,0 +1,27 @@
+.main-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+.country-detail {
+  margin: 0px 20px;
+}
+
+
+#info {
+  display: flex;
+  flex-direction: column;
+
+}
+
+#info > strong {
+  text-decoration: underline;
+}
+
+#select-country {
+  width: 313px;
+  height: 23px;
+
+
+}
